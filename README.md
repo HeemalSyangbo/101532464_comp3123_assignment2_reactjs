@@ -7,8 +7,9 @@ A MERN full-stack Employee Management System built for COMP3123 Assignment 2.
 Includes authentication, CRUD operations, image upload, and search functionality.
 
 ## 🌐 Live Links
-Frontend (Vercel): *Add URL here*  
-Backend (Render): *Add URL here*
+Frontend (Vercel): https://101532464-comp3123-assignment2-frontend-ntrcod17l.vercel.app/login
+
+Backend (Render): https://one01532464-comp3123-assignment2-backend.onrender.com  
 
 ## 📁 Project Structure
 - backend/ — Node.js, Express, MongoDB, JWT, Multer  
@@ -21,6 +22,7 @@ Backend (Render): *Add URL here*
 
 ## ▶️ Run Locally
 ### Backend
+
 cd backend
 npm install
 npm start
